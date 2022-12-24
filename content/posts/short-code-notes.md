@@ -14,11 +14,7 @@ type = "post"
 
 # Today we are going to install and setup OBS Studio for streaming.
 
-{{< columns >}}
-This is column 1.
-{{< column >}}
-This is column 2.
-{{< endcolumns >}}
+
 
 {{< details "This is the details title (click to expand)" >}}
 This is the content (hidden until clicked). More more more more moreee moremore more more more
