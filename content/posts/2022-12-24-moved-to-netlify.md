@@ -2,7 +2,7 @@
 categories = ["Hugo","New Site","Web host"]
 date = "2022-12-24"
 description = "Why I decided to move use netlify instead of neocities"
-featured = "/images/NeoLogo.png"
+featured = "/images/netlify.jpg"
 featuredalt = "host"
 featuredpath = "2022-12-24"
 linktitle = "netlify"
