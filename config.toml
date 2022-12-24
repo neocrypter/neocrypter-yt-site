@@ -1,4 +1,4 @@
-baseURL = "neocrypteryt.netlify.app"
+baseURL = "https://neocrypteryt.netlify.app"
 title   = "NeoCrypter"
 languageCode = "en-us"
  theme = "hello-friend-ng"
