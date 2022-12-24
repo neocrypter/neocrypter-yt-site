@@ -2,7 +2,7 @@ baseURL = "neocrypteryt.netlify.app"
 title   = "NeoCrypter"
 languageCode = "en-us"
  theme = "hello-friend-ng"
-# theme ="beautifulhugo"
+
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
