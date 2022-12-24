@@ -11,7 +11,9 @@ slug = "Changed host to netlify"
 type = "post"
 +++
 
-After lots of tinkering I could not find a sane way to upload my site to neocities unless I did it file by file, so I started looking at other solutions and stumbled across netlify.
+###After lots of tinkering 
+
+I could not find a sane way to upload my site to neocities unless I did it file by file, so I started looking at other solutions and stumbled across netlify.
  Netlify lets me do a couple of things, one it allows me to to use github to deploy my site so I can publish my changes, posts etc to my github repository, then Netlify automaticly builds the site and deploys it without any interaction for me. So in short my new workflow is edit on my local machine untill im happy, push my changes to my github repo and have a cup of coffee.
 
 
