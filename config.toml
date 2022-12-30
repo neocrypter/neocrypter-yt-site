@@ -61,14 +61,14 @@ disableHugoGeneratorInject = false
   # 
   description = "NeoCrypters Home"
   keywords = "neocrypter, youtube, content creator, tutorials, gaming"
-  images = ["/images/"]
+  images = ["assets/images/"]
 
   # Home subtitle of the index page.
   #
   homeSubtitle = "NeoCrypters Home"
 
   # Set a background for the homepage
-  # backgroundImage = "assets/images/background.jpg"
+   #backgroundImage = "assets/images/NeoLogo.png"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
